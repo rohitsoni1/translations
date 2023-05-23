@@ -1,0 +1,50 @@
+{
+    "email_notify_common_offer_title": {
+        "translation": "has lots to offer."
+    },
+    "email_notify_common_my_veh_title": {
+        "translation": "My"
+    },
+    "email_notify_common_my_veh_msg": {
+        "translation": "Set reminders;"
+    },
+    "email_notify_common_jorny_plan_title": {
+        "translation": "PLANNER"
+    },
+    "email_notify_common_jorny_plan_msg": {
+        "translation": "Map your next journey from wherever you are and send it"
+    },
+    "email_notify_common_estore_title": {
+        "translation": "E-SITE"
+    },
+    "email_notify_common_estore_msg": {
+        "translation": "Your online shop for map updates as"
+    },
+    "email_notify_common_own_manual_title": {
+        "translation": "Manual"
+    },
+    "email_notify_common_own_manual_msg": {
+        "translation": "Use our search tool to find online."
+    },
+    "email_notify_common_serv_hist_title": {
+        "translation": "Service"
+    },
+    "email_notify_common_serv_hist_msg": {
+        "translation": "View the history completed."
+    }
+    "email_notify_common_my_account": {
+        "translation": "Account"
+    },
+    "email_notify_common_find_dealer": {
+        "translation": "Find"
+    },
+    "email_notify_common_greeting": {
+        "translation": "Dear"
+    },
+    "email_notify_common_sign_head": {
+        "translation": "Sincerely,"
+    }
+    "email_notify_account_activate_otp_code_email_msg4_test": {
+        "translation": "*************************English Testing New Value**************************"
+    }
+}
